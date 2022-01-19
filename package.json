@@ -1,0 +1,16 @@
+{
+  "name": "cypress-boilerplate",
+  "version": "1.0.0",
+  "description": "Project created for test prupose",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Instapage/cypress-boilerplate.git"
+  },
+  "author": "Postclick"
+}
