@@ -25,7 +25,7 @@ Your task is to do it in a way that all the tests will pass!
 ## Task 1: Write the test covering the scenario: Login page - should show an error when trying to login with invalid credentials
 
 - visit the https://instapage.com domain
-- click on the "LOGIN" button
+- click on the "BOOK A DEMO" button
 - fill the "Email" and "Password"
 - click on the "LOG IN" button
 - assert the error message
