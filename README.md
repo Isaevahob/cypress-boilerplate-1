@@ -25,7 +25,7 @@ Your task is to do it in a way that all the tests will pass!
 ## Task 1: Write the test covering the scenario: Login page - should show an error when trying to login with invalid credentials
 
 - visit the https://instapage.com domain
-- click on the "BOOK A DEMO" button
+- click on the "LOGIN" button
 - fill the "Email" and "Password"
 - click on the "LOG IN" button
 - assert the error message
@@ -33,7 +33,7 @@ Your task is to do it in a way that all the tests will pass!
 ## Task 2: Write the test covering the scenario: Demo page - should load footer with all elements and navigate to the privacy policy
 
 - visit the https://instapage.com domain
-- click on the "GET STARTED" button
+- click on the "BOOK A DEMO" button
 - scroll to the bottom of the page
 - assert the footer elements
 - click on the "Privacy policy"
