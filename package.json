@@ -6,8 +6,7 @@
   "devDependencies": {
     "cypress": "^9.3.1"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Instapage/cypress-boilerplate.git"

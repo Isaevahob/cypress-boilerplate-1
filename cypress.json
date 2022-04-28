@@ -1,1 +1,10 @@
-{}
+{
+    "baseUrl": "https://instapage.com",
+    "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 30000,
+  "retries":{
+    "runMode":0,
+    "openMode":2
+},
+ "chromeWebSecurity": false
+}
